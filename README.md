@@ -1,2 +1,2 @@
 # Powershell-Functions
-A variety of useful powershell functions and scripts
+A variety of useful powershell functions
